@@ -1,0 +1,34 @@
+.idk{
+    padding: 30px;
+    width: 100%;
+    height: 500px!important;
+    min-width: 1200px;
+    justify-content: center;
+    background-color: #0BD1E8;
+    align-content: center;
+
+}
+p{
+    font-size: 15px;
+}
+.box{
+    padding: 20px;
+    width: 28%;
+    float: center;
+    margin: auto;
+    place-self: center;
+    min-height: 400px!important;
+    background-color: white;
+ 
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.mybutton{
+    margin: 0%;
+    width: 100%;
+    padding: 5px;
+}
